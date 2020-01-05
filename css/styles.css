@@ -115,6 +115,29 @@ h1 {
   font-style: normal;
 }
 
+/****
+* the following 3 'tags' list formatting items were adapted from the first
+* HTML workspace in the Full Stack JavaScript TechDegree curriculum
+****/
+
+ul.tags {
+  padding: 0;
+  text-align: center;
+}
+
+.tags li {
+  border-radius: 6px;
+  display: inline-block;
+  background: #ff9904;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+}
+
+.tags li:nth-child(odd) {
+  background: #0399ff;
+}
+
 @media (min-width: 768px) {
   body {
     padding: 25px;
