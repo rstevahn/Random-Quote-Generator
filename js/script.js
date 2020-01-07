@@ -46,7 +46,7 @@ let quotes = [
     source: "Lily Tomlin",
     // no citation
     // no year
-    tags:   ["tag1", "tag2", "tag3", "tag4", "tag5"]
+    tags:   ["humor", "TV", "comic", "woman"]
     // the only quote with 5 tags for testing purposes
   },
   {
