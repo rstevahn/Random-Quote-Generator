@@ -8,4 +8,4 @@ Extra Credit features included:
 - Background color changes each time the quote changes
 - Quote changes automatically after 15 seconds
 
-To see this project in action: https://rstevahn.github.io/Random-Quote-Generator/
+[See this project in action!](https://rstevahn.github.io/Random-Quote-Generator/)
